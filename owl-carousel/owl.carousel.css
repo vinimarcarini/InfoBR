@@ -129,7 +129,7 @@
 
 .owl-carousel-navigation .owl-controls .owl-nav .owl-prev{ 
     top: -15px;  
-    background-image: url('../img/nivo-prev-nav.png');
+ /*  background-image: url('../img/nivo-prev-nav.png'); */
 
 }
 
@@ -140,7 +140,7 @@
 
 .owl-carousel-navigation .owl-controls .owl-nav .owl-next{
     top: 15px;
-    background-image: url('../img/nivo-next-nav.png');
+ /*   background-image: url('../img/nivo-next-nav.png'); */
 }
 
 .owl-theme .owl-dots{
