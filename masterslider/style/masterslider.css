@@ -144,11 +144,11 @@
 	user-select:none;
 }
 
-.ms-slide .ms-layer, .ms-fixed-layers .ms-layer {position:absolute;pointer-events: auto}
+.ms-slide .ms-layer, .ms-fixed-layers .pi-caption01 {position:absolute;pointer-events: auto;}
 
 .ms-slide .ms-slide-layers,
 .ms-fixed-layers {
-	position: absolute;
+	margin:auto;
 	overflow:hidden;
 	width:100%;
 	height: 100%;

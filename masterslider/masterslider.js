@@ -4828,7 +4828,7 @@ MSSliderEvent.DESTROY				= 'ms_destroy';
 			start				: 1,		  // The slider starting slide number.
 			view				: 'basic',	  // The slide changing transition. 
 			width				: 300,		  // The base width of slides. It helps the slider to resize in correct ratio.
-			height				: 150,		  // The base height of slides, It helps the slider to resize in correct ratio.
+			height				: 1500,		  // The base height of slides, It helps the slider to resize in correct ratio.
 			inView				: 15, 		  // Specifies number of slides which will be added at a same time in DOM.
 			critMargin			: 1,		  // 
 			heightLimit			: true,		  // It force the slide to use max height value as its base specified height value.
